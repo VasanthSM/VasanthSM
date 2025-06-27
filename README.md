@@ -9,6 +9,6 @@ Beyond coding, I take great pride in mentoring and guiding emerging developers, 
 ---
 
 ### Get in Touch!
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasanths24/).
 
 Thank you for visiting! 😊
