@@ -10,5 +10,5 @@ Beyond coding, I take great pride in mentoring and guiding emerging developers, 
 
 ### Get in Touch!
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasanths24/).
-
+- 📧 Email: mailto:vasanthsubburaj99@gmail.com
 Thank you for visiting! 😊
