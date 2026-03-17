@@ -1,15 +1,58 @@
-# **Welcome! I'm Vasanth** 👋
+# **Hey, I'm Vasanth 👋**
 
-I'm a passionate developer with a deep focus on **clean code**, **React**, and crafting scalable, high-performance web applications. Currently, I’m working at **Infoane Technologies**, where I specialize in building modern front-end solutions using **TypeScript**, **Redux**, **RTK Query**, and **Storybook**, alongside back-end services with **C#**, **ASP .Net Core WEBAPI**, **EF Core** and **SQL Server**.
+I'm a **MERN Stack Developer** passionate about building **scalable, high-performance web applications** with clean architecture and production-ready code.
 
-I thrive on exploring new technologies and design patterns to enhance both the functionality and user experience of the applications I create. My mission is to consistently write maintainable, efficient code while learning and growing as a developer to stay at the forefront of web development.
-
-Beyond coding, I take great pride in mentoring and guiding emerging developers, sharing knowledge, and collaborating with others to foster growth within the tech community.
+I specialize in crafting end-to-end solutions — from intuitive user interfaces to robust backend systems and cloud-native deployments.
 
 ---
 
-### Get in Touch!
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vasanths24/).
-- 📧 Email: vasanthsubburaj99@gmail.com.
+### 🚀 Tech Stack
 
-Thank you for visiting! 😊
+**Frontend**
+
+* React.js, TypeScript
+* Redux, RTK Query
+* HTML5, CSS3, Tailwind CSS
+* Storybook (Component-driven development)
+
+**Backend**
+
+* Node.js, Express.js
+* REST API design & development
+* MySQL & DynamoDB
+
+**Cloud & DevOps**
+
+* AWS Amplify, Lambda
+* AppSync (GraphQL)
+* S3, SES
+* Cognito (Auth)
+* IAM & secure access control
+
+---
+
+### 💡 What I Focus On
+
+* Writing **clean, maintainable, and scalable code**
+* Designing **efficient system architectures**
+* Building **secure and performant applications**
+* Following **best practices & industry standards**
+
+---
+
+### 🌱 Currently Growing In
+
+* Advanced system design
+* Scalable backend architecture
+* Cloud-native application patterns
+
+---
+
+### 🤝 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/vasanths24/)
+* 📧 [vasanthsubburaj99@gmail.com](mailto:vasanthsubburaj99@gmail.com)
+
+---
+
+⭐ *Always building. Always learning.*
