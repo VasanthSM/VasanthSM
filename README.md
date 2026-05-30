@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VasanthSM&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/VasanthSM?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" alt="followers" />
-</p>
-
 <a href="https://github.com/VasanthSM">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vasanth%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20React.js%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20AWS%20Serverless&descAlignY=62&descSize=16" />
 </a>
@@ -104,21 +99,6 @@ const vasanth = {
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/VasanthSM">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=VasanthSM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Vasanth's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/VasanthSM">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasanthSM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -134,15 +114,6 @@ const vasanth = {
 </p>
 
 ---
-
-## 🏆 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VasanthSM&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 💼 Work Experience
 
 <details>
